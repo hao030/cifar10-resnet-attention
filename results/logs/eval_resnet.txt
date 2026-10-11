@@ -1,0 +1,1 @@
+resnet: test loss 0.2672, test acc 91.82% on 10000 images

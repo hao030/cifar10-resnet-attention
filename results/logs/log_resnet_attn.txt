@@ -1,0 +1,18 @@
+start 2026-10-11T21:51:19 | chip Apple M5 Pro | torch 2.14.1
+model=resnet_attn params=3.85M device=mps
+epoch  1 | train loss 1.4001 acc 0.4875 | test loss 1.2676 acc 0.5434 | 62s
+epoch  2 | train loss 1.0006 acc 0.6453 | test loss 1.0871 acc 0.6200 | 102s
+epoch  3 | train loss 0.8376 acc 0.7104 | test loss 0.9974 acc 0.6654 | 144s
+epoch  4 | train loss 0.7679 acc 0.7361 | test loss 0.7745 acc 0.7305 | 185s
+epoch  5 | train loss 0.6874 acc 0.7625 | test loss 0.8165 acc 0.7136 | 227s
+epoch  6 | train loss 0.6098 acc 0.7907 | test loss 0.9837 acc 0.6691 | 270s
+epoch  7 | train loss 0.5651 acc 0.8076 | test loss 0.5799 acc 0.8036 | 313s
+epoch  8 | train loss 0.5443 acc 0.8126 | test loss 0.6124 acc 0.7897 | 359s
+epoch  9 | train loss 0.5068 acc 0.8253 | test loss 0.5071 acc 0.8245 | 404s
+epoch 10 | train loss 0.4188 acc 0.8554 | test loss 0.4773 acc 0.8414 | 448s
+epoch 11 | train loss 0.3721 acc 0.8710 | test loss 0.4146 acc 0.8595 | 493s
+epoch 12 | train loss 0.3169 acc 0.8909 | test loss 0.3631 acc 0.8747 | 536s
+epoch 13 | train loss 0.2759 acc 0.9052 | test loss 0.3496 acc 0.8816 | 580s
+epoch 14 | train loss 0.2453 acc 0.9159 | test loss 0.3345 acc 0.8885 | 623s
+epoch 15 | train loss 0.2297 acc 0.9203 | test loss 0.3331 acc 0.8867 | 667s
+end 2026-10-11T22:02:26

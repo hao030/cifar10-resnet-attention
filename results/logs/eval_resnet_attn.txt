@@ -1,0 +1,1 @@
+resnet_attn: test loss 0.3331, test acc 88.67% on 10000 images
